@@ -32,23 +32,20 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Nataly Guachamboza
+  location: Lugar
+  social: Encuentrame en misRedes Sociales
+  credits: Creditos
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/home
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/claudia.natalygc/
+  - title: WhatsApp
+    url: http://wa.me/593993183922?text=Hola%20¿cómo%20éstas?%20😊
+  
 
 # Postal address (add as many lines as necessary)
 address:
