@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+
+
+
 description: Mi comida favorita es el encebollado, mi fruta favorita es la sandía, además de ello me gusta otros platos típicos.. Nam.
 ---
