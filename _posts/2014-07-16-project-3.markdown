@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-
-description: Me gusta mucho viajar, conocer diferentes lugares turísticos, su gastronomía y la calidez de las personas, por ello en el transcurso de mi vida he logrado conocer algunos lugares de mi Ecuador como, por ejemplo: Baños, Loja, Salinas, montañita y otros lugares más.. Nam.
----
